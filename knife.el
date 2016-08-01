@@ -1,11 +1,13 @@
-;;; KNIFE --- Run Chef's knife command with argument completion
+;;; knife --- Run Chef's knife command with argument completion
+;;
+;; Copyright © 2016, Howard Abrams, all rights reserved.
 ;;
 ;; Author: Howard Abrams <howard.abrams@gmail.com>
-;; Copyright © 2016, Howard Abrams, all rights reserved.
 ;; Created: 11 July 2016
 ;; Modified: 31 July 2016
 ;; Version: 1.5
 ;; Package-Requires: ((s "1.0"))
+;; Keywords: knife chef
 ;; URL: http://www.github.com/howardabrams/knife.el
 ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
